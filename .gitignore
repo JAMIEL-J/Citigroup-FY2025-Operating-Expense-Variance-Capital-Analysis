@@ -1,0 +1,14 @@
+# Internal study guide - not for publication
+PROJECT_GUIDE.md
+
+# Excel lock/temp files
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
